@@ -1,0 +1,17 @@
+{
+  "name": "meta2.2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000e\u0000t\u0000a\u00002\u0000.\u00002\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}

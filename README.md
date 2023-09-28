@@ -1,4 +1,4 @@
-# Servicio Web REST para Crowdsourcing
+# Servicio Web REST
 
 Este proyecto consiste en un servicio web REST para la gestión de recursos relacionados con el crowdsourcing. Los principales recursos incluyen Donatarios, Donadores y Proyectos. Cada Proyecto puede tener un Donatario y uno o más Donadores. Este servicio permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en estos recursos y consultas relacionadas.
 
